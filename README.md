@@ -69,7 +69,5 @@ _Frontend…_
 _Backend…_
 
 ## Consideraciones
-_Preocupaciones / trade-offs / tech debt_
 
 ## Métricas
-_Que información necesitas para validar antes de lanzar este feature?_
