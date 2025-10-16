@@ -1,4 +1,4 @@
-# P1BACKEND1
+# P1BACKEND1 - Gestión de movilidad y transporte
 
 Author(s): Emiliano Patrón
 
@@ -32,13 +32,17 @@ _La expansión urbana y la densidad poblacional generan una alta demanda de serv
 - Apoyar decisiones de inversión o planeación empresarial en el sector de movilidad y transporte.
 
 ## Non-Goals
-- Non-Goals
+- No se busca evaluar la calidad del servicio o satisfacción del cliente de los negocios automotrices.
+- No se realizará análisis financiero o contable de las empresas (ventas, ingresos, costos o rentabilidad).
+- No se incluirá información personal, confidencial o privada de los propietarios o empleados.
+- No se llevarán a cabo encuestas, entrevistas o trabajo de campo para validar los datos.
+- No se pretende medir el impacto ambiental o vial del sector transporte en la ciudad.
 
 ## Background
 El Directorio Estadístico Nacional de Unidades Económicas del INEGI proporciona información relacionada con los negocios activos, esto incluye:
 
 - Nombre o razón social
-- Actividad económica (código SCIAN)
+- Actividad económica
 - Tamaño (personal ocupado)
 - Dirección y coordenadas geográficas
 - Tipo de unidad económica
@@ -51,17 +55,6 @@ Con esta herramienta, tanto empresarios como autoridades podrán identificar zon
 El proyecto transforma los datos del INEGI en una base estratégica para la toma de decisiones económicas y de planeación urbana en el ámbito del transporte y la movilidad._
 
 ## Detailed Design
-_Usa diagramas donde veas necesario_
-
-_Herramientas como [Excalidraw](https://excalidraw.com) son buenos recursos para esto_
-
-_Cubre los cambios principales:_
-
- _- Cuales son las nuevas funciones que vas a escribir?_
- _- Porque necesitas nuevos componentes?_
- _- Hay código que puede ser reusable?_
-
-_No elabores minuciosamente la implementación._
 
 ## Solution 1
 ### Frontend
