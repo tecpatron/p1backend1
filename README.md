@@ -2,9 +2,9 @@
 
 Author(s): Emiliano Patrón
 
-Status: [Draft, Ready for review, In Review, Reviewed]
+Status: Draft
 
-Ultima actualización: YYYY-MM-DD
+Ultima actualización: 2025-10-15
 
 ## Contenido
 - Goals
@@ -58,15 +58,13 @@ El proyecto transforma los datos del INEGI en una base estratégica para la toma
 
 ## Solution 1
 ### Frontend
-_Frontend…_
+
 ### Backend
-_Backend…_
 
 ## Solution 2
 ### Frontend
-_Frontend…_
+
 ### Backend
-_Backend…_
 
 ## Consideraciones
 
